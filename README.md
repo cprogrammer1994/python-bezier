@@ -1,6 +1,6 @@
 # python-bezier
 
-A simple module to calculate mesh normals for python.
+A simple module to get the points of a cubic bezier curve for python.
 
 ## Install
 
